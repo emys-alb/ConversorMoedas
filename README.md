@@ -1,6 +1,6 @@
 # Conversor de Moedas 💰💸
 
-## 💻 Projeto
+## 💻 Sobre
 
 A idéia do projeto é ser capaz de ter um conversor de moedas por linha de comando. A opção default é Dólar Americano($) para Real(R$), mas sinta-se livre para testar com qualquer moeda.
 
