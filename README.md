@@ -3,6 +3,7 @@
 ## 💻 Sobre
 
 A idéia do projeto é ser capaz de ter um conversor de moedas por linha de comando. A opção default é Dólar Americano($) para Real(R$), mas sinta-se livre para testar com qualquer moeda.
+<br>Projeto desenvolvido com aulas do [Mario Souto](https://github.com/omariosouto) para aprofundar os estudos de web scraping.
 
 ### Tecnologias
 
@@ -28,4 +29,5 @@ A idéia do projeto é ser capaz de ter um conversor de moedas por linha de coma
 
 Projeto criado usando a MIT License - confira o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-_Feito por [Emilly de Albuquerque](emys-alb.github.io/)_
+---
+  _Copyright © 2021-present, [Emilly de Albuquerque](emys-alb.github.io/)_
