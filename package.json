@@ -1,0 +1,16 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "Emilly de Albuquerque",
+    "url": "https://emys-alb.github.io/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^9.0.0",
+    "puppeteer-core": "^9.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
